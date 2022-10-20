@@ -1,3 +1,3 @@
-Version: Minecraft Education 1.17
-Players: two or more
-How to play: Destroy enemy team's nexus to win
+Version: Minecraft Education 1.17 <br>
+Players: two or more <br>
+How to play: Destroy enemy team's nexus to win <br>
